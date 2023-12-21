@@ -1,0 +1,42 @@
+.main{
+  border: 2px solid black;
+  height: 600px;
+  width: 700px;
+  margin-left: 320px;
+  text-align: center;
+  background:url("C:\Users\Aashma\OneDrive\Pictures\background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  color: white;
+}
+input{
+  height: 25px;
+  width: 320px;
+  padding-left: 20px;
+  border: 2px solid black;
+  font-size: 15px;
+}
+.btn{
+  font-size: 20px;
+  margin-top: 10px;
+  border: 2px solid black;
+}
+.btn:hover{
+  background-color: black;
+  color: white;
+  border: 2px solid white;
+}
+.expenses{
+  padding-left: 250px;
+  padding-top: 1px;
+  text-align:left;
+}
+h2{
+ padding-left: 70px;
+
+}
+.btn1{
+   margin-left: 15px;
+}
